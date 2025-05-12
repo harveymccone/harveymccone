@@ -11,7 +11,7 @@ This GitHub showcases my core analysis pipeline used across multiple EEG studies
 
 ---
 
-A complete walkthrough of my EEG analysis workflow can be found in the [eeg-analysis-pipeline](./eeg-analysis-pipeline) repository. 
+A complete walkthrough of my EEG analysis workflow can be found in the [eeg-analysis-pipeline](eeg-analysis-pipeline) repository. 
 
 This pipeline covers everything from preprocessing to statistical analysis. The results of the analysis were published in the journal article:  
 Signatures of time interval reproduction in the human electroencephalogram (EEG) [https://doi.org/10.1162/imag_a_00279] 
